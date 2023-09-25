@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import CurrentLocation from "./currentLocation";
 import "./App.css";
 
@@ -9,8 +9,11 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="">Download Source Code</a> | Developed by{" "}
-        <a target="_blank" href="https://github.com/bk408/PRODIGY_WD_02">
+        <a href="https://github.com/bk408/PRODIGY_WD_02">
+          Download Source Code
+        </a>{" "}
+        | Developed by{" "}
+        <a href="">
           Bhavya Khatri
         </a>{" "}
       </div>
