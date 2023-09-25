@@ -9,14 +9,10 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="">
-          Download Source Code
-        </a>{" "}
-        | Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
+        <a href="">Download Source Code</a> | Developed by{" "}
+        <a target="_blank" href="https://github.com/bk408/PRODIGY_WD_02">
           Bhavya Khatri
         </a>{" "}
-        
       </div>
     </React.Fragment>
   );
