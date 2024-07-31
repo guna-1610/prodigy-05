@@ -12,7 +12,7 @@ function App() {
         <a href="https://github.com/bk408/PRODIGY_WD_02" target="_blank" rel="noreferrer">
           Download Source Code
         </a>{" "}
-        | Developed by <a href="">Bhavya Khatri</a>{" "}
+        | Developed by <a href="">Gunavardhan Potnuru</a>{" "}
       </div>
     </React.Fragment>
   );
